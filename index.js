@@ -13,7 +13,7 @@ const connection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     database: 'node_app',
-    password:'Avinashcse22'
+    password:'***********'
 });
 let getuser = ()=>{
   return[
